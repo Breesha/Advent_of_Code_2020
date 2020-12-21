@@ -210,20 +210,41 @@ namespace Advent_Day1
                 1887,
                 1968
             };
+            //for (int i = 0; i < entriesList.Count; i++)
+            //{
+            //    var option = 2020 - entriesList[i];
+            //    var answer = entriesList[i] * option;
+
+            //    if (entriesList.Contains(option))
+            //    {
+            //        //Console.WriteLine(option);
+            //        Console.WriteLine(answer);
+            //    }
+            //}
+            //// answer 616 an 1404 and 864864
+            ///
+
+            //PART2
             for (int i = 0; i < entriesList.Count; i++)
             {
-                var option = 2020 - entriesList[i];
-                var answer = entriesList[i] * option;
+                entriesList.Sort();
+                var smallest = entriesList[0] + entriesList[1];
+                var biggest = 2020 - smallest;
 
-                if (entriesList.Contains(option))
+                if (entriesList[i]<biggest)
                 {
-                    //Console.WriteLine(option);
-                    Console.WriteLine(answer);
+                    //Console.WriteLine(entriesList[i]);
+                    foreach (var item in entriesList)
+                    {
+                        if(entriesList.Contains(2020-entriesList[i]-item))
+                        {
+                            Console.WriteLine($"Combination: {entriesList[i]} {item} {2020 - entriesList[i] - item}");
+                            var multiple = entriesList[i] * item * (2020 - entriesList[i] - item);
+                            Console.WriteLine(multiple);
+                        }
+                    }
                 }
             }
-            // answer 616 an 1404 and 864864
-
-
 
         }
     }
