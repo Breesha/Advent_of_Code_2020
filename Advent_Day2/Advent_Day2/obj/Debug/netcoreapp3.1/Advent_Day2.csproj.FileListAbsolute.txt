@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.AssemblyInfo.cs
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.exe
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.deps.json
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.runtimeconfig.json
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.runtimeconfig.dev.json
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.dll
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\bin\Debug\netcoreapp3.1\Advent_Day2.pdb
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.dll
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.pdb
+C:\Users\User\Desktop\SPARTA\Christmas\Advent_of_Code_2020\Advent_Day2\Advent_Day2\obj\Debug\netcoreapp3.1\Advent_Day2.genruntimeconfig.cache

@@ -1,0 +1,819 @@
+
+
+180-190 comment out, maybe more
+
+
+inputs.Add(new List<string> { "2","4 m: lwsrm"});
+inputs.Add(new List<string> { "11-15 h: hhhhhthhhhhhhdh"});
+inputs.Add(new List<string> { "11-15 h: hhspzhhghhhhhph"});
+inputs.Add(new List<string> { "12-13 g: ggggggggggglv"});
+inputs.Add(new List<string> { "1-2 r: rqgrtrjrrrr"});
+inputs.Add(new List<string> { "2-5 m: rmmmmmmm"});
+inputs.Add(new List<string> { "2-12 w: swbdnqjpgkhlgfcwhjtl"});
+inputs.Add(new List<string> { "3-12 b: bbpbdbbbwbdbb"});
+inputs.Add(new List<string> { "8-10 z: zzzzzzzzzzzzz"});
+inputs.Add(new List<string> { "5-12 m: mmmzwmxmmjnhlmdbmm"});
+inputs.Add(new List<string> { "7-9 q: pqqqqqqqqqqdqq"});
+inputs.Add(new List<string> { "12-14 z: zmrzqkzmzzwxptz"});
+inputs.Add(new List<string> { "1-10 n: nnnnwnnnnnnn"});
+inputs.Add(new List<string> { "2-4 s: gvsw
+inputs.Add(new List<string> { "2-5 f: tbfffff
+inputs.Add(new List<string> { "7-11 p: xpgzpppmppp
+inputs.Add(new List<string> { "6-15 v: jvgvmzvxvvvvvwnvv
+inputs.Add(new List<string> { "1-2 n: nnnnftznb
+inputs.Add(new List<string> { "7-13 t: ttttttttttttttt
+inputs.Add(new List<string> { "19-20 p: pppppppppppppppptplt
+inputs.Add(new List<string> { "1-5 h: xhvbhhpzthh
+inputs.Add(new List<string> { "8-10 b: bbbbbbxwbbbbbbb
+inputs.Add(new List<string> { "7-13 w: wwhbwwwwkwdww
+inputs.Add(new List<string> { "2-4 p: zpppshgljlgzcsp
+inputs.Add(new List<string> { "7-8 p: pngtdrbp
+inputs.Add(new List<string> { "10-12 f: ffffbffffffffff
+inputs.Add(new List<string> { "2-5 t: vttgtqxn
+inputs.Add(new List<string> { "3-4 r: rrfr
+inputs.Add(new List<string> { "4-6 r: rrrrrrr
+inputs.Add(new List<string> { "3-15 c: cnckhgxpwhcgnzw
+inputs.Add(new List<string> { "4-7 d: ldddxzjngg
+inputs.Add(new List<string> { "9-10 b: bgjpmqmjgb
+inputs.Add(new List<string> { "4-5 v: vqhvvvz
+inputs.Add(new List<string> { "9-12 b: wvdsqhdhdcbt
+inputs.Add(new List<string> { "2-3 w: wwww
+inputs.Add(new List<string> { "16-17 w: dwzwwvrjlwlwwnfwlsts
+inputs.Add(new List<string> { "4-5 x: bmbmxpxrg
+inputs.Add(new List<string> { "3-6 p: pjpxbp
+inputs.Add(new List<string> { "1-5 j: vdsjxj
+inputs.Add(new List<string> { "2-3 x: xxsxfxxxxxs
+inputs.Add(new List<string> { "9-15 j: lbwqpstwjjbwpzjkgj
+inputs.Add(new List<string> { "10-13 n: hnvnnnpnnnnnnnnnnnn
+inputs.Add(new List<string> { "10-11 m: tmmmkmmmzmnmvm
+inputs.Add(new List<string> { "6-12 l: lslllllmlllrlxl
+inputs.Add(new List<string> { "8-10 r: rrrrrrrrrrrrrrr
+inputs.Add(new List<string> { "9-11 b: hmhnzhflblcbsrfsj
+inputs.Add(new List<string> { "10-13 h: nhmhwhbhzkrlwh
+inputs.Add(new List<string> { "12-14 s: dsrssjhrsssgsxksssg
+inputs.Add(new List<string> { "2-7 d: nhdlpddffdgdp
+inputs.Add(new List<string> { "1-5 p: pppppp
+inputs.Add(new List<string> { "11-16 k: gcxckpvrtvkhrdkht
+inputs.Add(new List<string> { "9-15 m: lcmmmmkmpmmmmmx
+inputs.Add(new List<string> { "5-6 z: zsrxwzfz
+inputs.Add(new List<string> { "3-4 v: hdvtqqkvz
+inputs.Add(new List<string> { "13-16 w: wwtwlwwnwwwwfwztz
+inputs.Add(new List<string> { "9-11 f: pfwdpfrpfmfmb
+inputs.Add(new List<string> { "4-8 x: wxxxbtzxmrx
+inputs.Add(new List<string> { "9-11 m: mlvmmmzmmmmjnmpkkhm
+inputs.Add(new List<string> { "9-10 w: scpljvzpwnwcbhzntbsw
+inputs.Add(new List<string> { "3-8 h: bgbhhnhndcthhv
+inputs.Add(new List<string> { "8-17 x: xxxxxxxxxxxxxxxxxxxx
+inputs.Add(new List<string> { "5-10 d: dtddddddddd
+inputs.Add(new List<string> { "2-3 v: vvvv
+inputs.Add(new List<string> { "13-14 z: hmrbhfgmdkljtz
+inputs.Add(new List<string> { "5-7 h: hhhtpdd
+inputs.Add(new List<string> { "3-6 w: mwwglwwwwptz
+inputs.Add(new List<string> { "3-4 q: sqqq
+inputs.Add(new List<string> { "12-15 v: vmvvvrvlvvpqvqk
+4-9 n: dndmktskr
+18-19 d: dddddddmdddddcdgddd
+4-5 t: ttttstt
+11-17 p: ppppppppppkpqpppvpp
+7-11 l: tslnxvldrfhp
+14-15 x: xxxxxxxxxxxxxrcxxxx
+2-8 b: bbbbbbbbbbbb
+12-17 n: nnsnnnnwnpnfnnnnnnnn
+3-8 f: crfpffhf
+17-18 j: jjwcmkcdxjjjkqtqjj
+2-4 n: nnnn
+7-9 q: rbrkbqqtj
+2-3 j: jstj
+18-20 d: dddddddddddddddddddh
+7-14 h: hhhhhhxhhhhhhdhh
+3-10 g: dgbgpgggxg
+11-12 w: wwwwmvqmwlwwj
+4-11 s: csrldnzsvhxcc
+6-8 n: nnnnnnnnnn
+2-5 x: xxxxxld
+7-9 m: mkmmmhcbmrj
+9-13 p: bppppppppppppppp
+3-20 g: ggggnggggggggggvgggt
+10-11 d: gddrddddddd
+5-10 m: mmmmmmmmmmmmmfmmpm
+5-7 n: nnrnccm
+11-14 k: khkkknzkrkjkkb
+2-10 x: jxrbgfkgjz
+19-20 t: tttttttttttttttttkch
+1-4 d: vvqfxvrtxldzcmxxdlsj
+8-13 n: nnvnnngnnnnnwnnnnb
+5-9 n: nnnntnnnwn
+2-3 z: zzzz
+2-12 b: zblxddslcnbbpcj
+5-17 z: zzzzzzzzzzzzzzzzzzzz
+14-16 l: pdlllfllllsrgwwf
+6-13 j: knwhbnjxwgrwrbjqwcj
+3-4 r: rrfwr
+2-3 h: hhrh
+3-4 l: klll
+5-7 b: bqwbbfmbb
+5-11 s: shsszsssksssscsssss
+6-8 w: mwdbwwgw
+2-8 z: tzcqzszzzmq
+2-12 f: fgtffwfkxffffffrjsf
+4-5 s: sslsk
+9-13 s: vsssfsbsssvgzftcss
+1-3 g: gkggzr
+8-13 d: rchmzwxdkzgpdzwdk
+18-19 q: qlmvnrkklmdwrjprzsmv
+1-7 r: rrsrrrr
+17-19 d: dddddddndpbdwskdddd
+7-8 r: rrrrrrcvr
+1-3 r: jdrrhq
+5-6 r: rwrjtrcmkrrk
+2-3 m: mmxmg
+1-19 f: ffffffffffffffffffpf
+16-17 h: hhhhhhhhhhhhhhhhh
+10-13 n: nnnnnnnnnnnnvsn
+3-4 g: gggg
+7-13 c: ckcvfscqtmckc
+4-5 z: zzzdnhzzzf
+5-6 n: lznnnnglnk
+4-12 q: fjpqwvlbgzqmqmmgdjp
+3-4 d: ddldd
+5-7 r: cdrlrnrgmtrrrrnr
+15-16 j: ppwjfxzqdtpjwwjjndkm
+11-12 g: ggggggggggplg
+3-4 n: dnjqzsrtc
+7-8 t: ttntttbb
+4-15 t: tttjtttttttqttztd
+5-8 r: rrrrrrrrr
+4-5 q: qqqqq
+5-7 n: nsvgnnns
+12-13 w: wwwwwwwwwwwwwwww
+15-17 n: qxtnnnnrcncnmpnnn
+3-13 z: mcmvkthxwzkqzglqhfnw
+5-7 d: ddddddrdddddd
+16-18 m: mmmmmmmmmmlmmmmmmpkk
+9-12 l: lllvlnlwlmll
+5-12 d: ddxdxdddjjlsddddmpdd
+9-18 p: ppppppppbpppppppprpp
+1-5 v: lvwpm
+7-8 v: hvzvhrvh
+9-14 z: zzmzzzzzzzzzlzgzz
+3-4 x: wxwtb
+2-4 f: fhfszf
+2-7 c: chcccctcdccccc
+2-12 h: kjctchvdrmlpxqjnqd
+3-5 z: pzkbz
+3-10 g: ggggpggggsggggg
+6-7 c: cccccgbc
+3-4 d: ddkjrd
+2-3 r: kgwt
+8-10 z: mzzzjnzgzzzzzw
+12-13 t: tttnztrvttqtttcrht
+9-10 x: xxxxdxxxbxxxx
+2-4 d: mgdd
+1-4 b: bbzb
+14-16 b: bsbbbbbbbbbbbkbbb
+3-10 n: xnngwgptznfr
+16-17 k: kkkkkkrkkkkkkkkrzk
+17-18 g: ggtgggggggggggggpw
+12-16 j: jjjjjjjjjjjsjxjjj
+12-15 f: ffffffffffffffffff
+5-6 m: kmmnlmmnm
+5-7 j: jbjjlzj
+2-3 l: llll
+9-12 l: lqzlxljfclwz
+14-15 n: nnnnnnnnndnnnsnnn
+3-10 l: rpdldkdkpt
+4-6 z: mgzzzthzn
+4-13 m: jmxtwbnhgmtqggrm
+7-8 n: mnnnnnrwnn
+5-10 q: qqqqcqqqqqq
+1-2 t: kttttt
+5-8 b: bbbbbbbbb
+4-14 z: zbbffzzlrzzzztzj
+6-10 k: kkkkkbkkkk
+9-10 j: djjjjjjjmp
+4-6 q: qqqwqq
+16-17 t: tmtbtcktgtknttkhttq
+13-15 x: xxxxcfqxxxxxxxxxx
+2-3 f: fzfff
+1-3 w: vtlk
+9-11 l: lllldzllrbb
+9-13 b: zvbbsbbtbbxzp
+9-10 v: vvbwvvmvvvvvzznvbv
+11-12 w: zwgwhrwpwzlq
+1-2 k: cjkk
+6-10 b: bbbbbbbbbkrbbbbb
+1-3 z: kzvxz
+2-3 h: khhh
+3-4 h: hhhfdhhh
+8-11 l: glllglcxgbwxdfdlp
+2-10 j: jsjjjjjjjcjts
+2-8 b: bbbbjmbbbbbbbbbbbgbb
+1-3 j: cjbtvwm
+5-6 f: ffffks
+13-14 r: rrrrrrrrrrrrrrr
+11-14 v: wpddkmvbgwgttk
+4-5 l: pllll
+9-10 x: wxxxksxxqxxxwvcqxqw
+5-10 h: chgkkkcxgmmqclmxvjs
+1-2 x: xsqn
+5-10 d: ddxdddkddndddd
+2-4 g: jsdggjzvs
+2-3 x: xvkx
+3-5 b: blbbsb
+5-6 r: rrrtrm
+12-13 z: rzzjzztpzzszzznb
+12-18 h: hmdlhtwrjrlkgzgbkn
+6-20 q: fqhwcqqmqqqtqqsqqqkq
+1-5 s: shfth
+3-12 t: jttjvtdlptrr
+4-9 p: ntppvcsxpspr
+2-5 j: bjbljfj
+4-9 m: mmmwmhmsrmmgnn
+4-5 s: vssdg
+6-11 p: zpvpppxpvbpjnp
+4-5 x: xxxvxx
+5-8 x: nxxxxxxlx
+3-6 l: lkxnlwwclf
+7-8 s: sssssntc
+19-20 k: kmkkkkkkjkkzbkjkkkkk
+3-4 d: dpjp
+3-9 s: lvwsssqss
+1-2 c: ccssqkdmxwcmv
+7-13 q: qfjqrcqqdqqqn
+5-13 x: cqddxmvjwxfnx
+1-5 l: lptcl
+4-5 h: hvhpt
+5-10 g: cggvwnhggggg
+2-4 v: nqxvrzmwjbmqnvrb
+1-4 t: qtwqrtbssqgtt
+9-10 s: ssssssssqf
+4-9 v: xwvwvzfwnkvnv
+6-7 q: qbpwcqq
+2-10 n: nnnnnnnnnbnznnnnnn
+5-9 v: vvvvmvvvvv
+9-10 l: llllllllll
+11-15 m: mmjmxmmmpmxmmmrmmm
+1-5 r: hrrrrbr
+10-13 g: pkgrbchtpxzrfw
+10-11 v: vvvvkvvvvvvf
+1-7 p: pprpqpp
+1-5 d: dxtqddw
+2-4 q: qpqjqqqlqqqqqh
+16-17 h: hhhfkhhhhpzhhhhhh
+3-6 l: xxclpflwllzh
+5-7 z: ztzzzzb
+15-16 c: ccccccccccccccqtc
+10-11 k: kkkvknkkkkkkk
+inputs.Add(new List<string> { "3-9 n: mnnxxvbhj
+inputs.Add(new List<string> { "6-12 t: tmxlxtxgpnwtkxmk
+inputs.Add(new List<string> { "3-9 k: jkkslslkvb
+inputs.Add(new List<string> { "9-17 n: nnnnnsmjxjgnnhkmn
+inputs.Add(new List<string> { "1-2 c: ccpwch
+inputs.Add(new List<string> { "6-10 p: lfbwlkmzlnxdpsjpsg
+inputs.Add(new List<string> { "9-14 c: cckctccccccccv
+inputs.Add(new List<string> { "12-13 n: nnnnnnnnnnnnnmjn
+inputs.Add(new List<string> { "8-10 n: nnbnnnnjnbnnnnnnnnkn
+inputs.Add(new List<string> { "14-17 h: fkgnhvwvhxrhzhnsh
+inputs.Add(new List<string> { "9-11 w: wwwwwwwwwxwwwwwwww
+inputs.Add(new List<string> { "5-9 q: qqqqqqqqqq
+inputs.Add(new List<string> { "12-13 f: fdfhffmfffffq
+inputs.Add(new List<string> { "4-10 q: wwkqqbttbr
+inputs.Add(new List<string> { "9-10 r: ndrmprfjqf
+inputs.Add(new List<string> { "6-13 h: hhhhhhhhhhhhrh
+inputs.Add(new List<string> { "14-17 t: tkmgwtztkfjtgtttt
+inputs.Add(new List<string> { "2-6 t: vqtcptqrbrs
+inputs.Add(new List<string> { "2-3 r: rrtrrrrrr
+inputs.Add(new List<string> { "3-8 j: nhjtkjhjwlf
+inputs.Add(new List<string> { "5-17 b: vbtctpbhtjtkhtwcw
+inputs.Add(new List<string> { "5-8 z: zsbkkcgqwqqvzr
+inputs.Add(new List<string> { "4-8 c: cpccjpwccccnc
+inputs.Add(new List<string> { "6-13 k: rhkghtnkkbqdz
+inputs.Add(new List<string> { "8-11 p: pcppmwppnvp
+inputs.Add(new List<string> { "12-17 k: jjbsfkkqbbqkkknkk
+inputs.Add(new List<string> { "4-6 h: tddhcllhhhcbwq
+inputs.Add(new List<string> { "3-4 q: sqqqqjqm
+inputs.Add(new List<string> { "4-7 b: tbqwbbqcs
+inputs.Add(new List<string> { "3-10 z: zjzzzzzzzhzz
+inputs.Add(new List<string> { "4-5 m: mhxpzwrcxtgsjxfdq
+inputs.Add(new List<string> { "17-18 q: sqqqqqpbqqqqwqhvsp
+inputs.Add(new List<string> { "3-4 n: njnww
+inputs.Add(new List<string> { "9-10 v: vvdvxvvjvv
+inputs.Add(new List<string> { "2-8 k: fkztgksk
+inputs.Add(new List<string> { "5-17 q: fxvjhclcfkcxwhqqk
+inputs.Add(new List<string> { "3-5 p: rbkxlkfzxvpgcf
+inputs.Add(new List<string> { "2-4 f: wlmv
+inputs.Add(new List<string> { "9-10 b: bzxwbbrwhfbbbb
+inputs.Add(new List<string> { "4-10 d: dddbdddddddd
+inputs.Add(new List<string> { "7-8 b: hzrsbxjbhql
+inputs.Add(new List<string> { "5-9 r: rsjrrbrrlrhmrbcvnbr
+inputs.Add(new List<string> { "6-7 b: bbbbbbbf
+inputs.Add(new List<string> { "14-20 m: ddfhmsxmcbwmmfvmmmmf
+inputs.Add(new List<string> { "2-9 m: mmmvmmmmxmmmmmmmm
+inputs.Add(new List<string> { "9-11 q: wqnttwfdqqjhz
+inputs.Add(new List<string> { "18-19 g: ggggggggggggggggggg
+inputs.Add(new List<string> { "13-15 f: fffffffffffdxtffr
+inputs.Add(new List<string> { "2-7 b: crskznfmbjmch
+inputs.Add(new List<string> { "2-4 c: lcccz
+inputs.Add(new List<string> { "2-6 n: thxnnjnnnnnnn
+inputs.Add(new List<string> { "3-6 h: hwhgdhhhh
+inputs.Add(new List<string> { "15-17 d: dddtddddddkdddddvs
+inputs.Add(new List<string> { "4-7 f: zzptbfkrvzcrxflnp
+inputs.Add(new List<string> { "1-2 m: mmhm
+inputs.Add(new List<string> { "2-3 w: pmww
+inputs.Add(new List<string> { "1-3 f: wfkf
+inputs.Add(new List<string> { "6-8 m: rcpxtmmm
+inputs.Add(new List<string> { "6-9 c: cccccccccc
+inputs.Add(new List<string> { "1-3 j: bjjj
+inputs.Add(new List<string> { "4-6 d: dddhddddd
+inputs.Add(new List<string> { "1-6 l: nllllkll
+inputs.Add(new List<string> { "1-2 x: xjnhzxxxpx
+inputs.Add(new List<string> { "3-13 r: rrkrrrrrrrrrjr
+inputs.Add(new List<string> { "18-19 h: hhhhhhhhhhhhhhhhhhhh
+inputs.Add(new List<string> { "7-9 d: dlvrddbvhdddd
+inputs.Add(new List<string> { "6-11 r: rmvqqrxsjxgvkrrskfp
+inputs.Add(new List<string> { "9-10 k: kkkdkkkkkkk
+inputs.Add(new List<string> { "9-10 v: pcjpkrgqvp
+inputs.Add(new List<string> { "1-3 z: rcqfgzwxgrvml
+inputs.Add(new List<string> { "2-9 j: gjbjvgtqjkxbsrvb
+inputs.Add(new List<string> { "5-7 q: qqqvqqrvqqntkbpj
+inputs.Add(new List<string> { "2-3 h: cgnhphpf
+inputs.Add(new List<string> { "7-10 f: ffffffdcfsfffff
+inputs.Add(new List<string> { "4-7 r: brgkrrrrrrrrrrmrrx
+inputs.Add(new List<string> { "4-7 p: pppwppbfpp
+inputs.Add(new List<string> { "7-9 v: vrlvbtlmv
+inputs.Add(new List<string> { "12-13 x: cxxxxjxxxsvxx
+inputs.Add(new List<string> { "3-5 z: lzzxd
+inputs.Add(new List<string> { "4-6 q: qqqqqqxqf
+inputs.Add(new List<string> { "11-12 h: hhmhhhhhhzhh
+inputs.Add(new List<string> { "15-19 k: kkkkkkzkzkkkkkkkkkmk
+inputs.Add(new List<string> { "8-10 p: pmpppnmppf
+inputs.Add(new List<string> { "5-7 m: mtmmmzlmmmm
+inputs.Add(new List<string> { "6-9 d: gsdhmqqldd
+inputs.Add(new List<string> { "4-11 c: pcrrwnbtckcx
+inputs.Add(new List<string> { "6-12 g: qhjmzgwbhgmgjg
+inputs.Add(new List<string> { "4-9 w: ntwwcgtwt
+inputs.Add(new List<string> { "1-3 k: knkdkdwpg
+inputs.Add(new List<string> { "5-7 l: qslglll
+inputs.Add(new List<string> { "11-15 p: njpkdhkfdgmjdtp
+inputs.Add(new List<string> { "2-6 p: kcvlss
+inputs.Add(new List<string> { "4-13 f: psffmdwqkqlffw
+inputs.Add(new List<string> { "1-17 g: qgggggggglggggggf
+inputs.Add(new List<string> { "9-10 f: fffhfffftp
+inputs.Add(new List<string> { "18-19 r: fwmkgpdvhsmjrzqqtjq
+inputs.Add(new List<string> { "9-10 b: bbbmbbbbvmbbbdb
+inputs.Add(new List<string> { "8-11 n: mndnrlnnnnn
+inputs.Add(new List<string> { "14-16 h: hhhhhhhhhhhhhthh
+inputs.Add(new List<string> { "2-3 l: lztsl
+inputs.Add(new List<string> { "2-4 d: djtp
+inputs.Add(new List<string> { "4-6 f: mpmfzt
+inputs.Add(new List<string> { "2-4 h: tnhh
+inputs.Add(new List<string> { "3-4 d: dcdm
+inputs.Add(new List<string> { "4-10 b: kzblbhccnbkb
+inputs.Add(new List<string> { "2-6 d: ftbdjzns
+inputs.Add(new List<string> { "10-13 l: mllllllllglllllll
+inputs.Add(new List<string> { "11-15 n: nnnntnnnnnjrnnnn
+inputs.Add(new List<string> { "11-13 b: tlsblhbjfbpbrb
+inputs.Add(new List<string> { "2-6 x: fwwxtxw
+inputs.Add(new List<string> { "2-3 t: ttgttttttttttttttttt
+inputs.Add(new List<string> { "6-10 f: gffffffflf
+inputs.Add(new List<string> { "3-4 z: zzzz
+inputs.Add(new List<string> { "5-15 d: rnmfddgdvddvxkdp
+inputs.Add(new List<string> { "6-9 b: bbbbbbbbbb
+inputs.Add(new List<string> { "1-4 k: kkskk
+inputs.Add(new List<string> { "1-3 b: bbbbbbbbbbbbbbbbbb
+inputs.Add(new List<string> { "1-5 b: wbbbpbqbsb
+inputs.Add(new List<string> { "1-4 g: xgfg
+inputs.Add(new List<string> { "1-13 d: ddddddddddhdddd
+inputs.Add(new List<string> { "6-7 p: ppppppw
+inputs.Add(new List<string> { "13-15 b: bbbbtbbbbbpblbb
+inputs.Add(new List<string> { "3-13 h: hkhnkkfkrwrbz
+inputs.Add(new List<string> { "5-6 r: rrrrvn
+inputs.Add(new List<string> { "2-6 w: wwwwzwwvwwzjnrwwwwww
+inputs.Add(new List<string> { "1-4 h: hhhh
+inputs.Add(new List<string> { "4-10 d: dsndddptsdqqgzjlgrwd
+inputs.Add(new List<string> { "4-5 l: glmvll
+inputs.Add(new List<string> { "3-4 c: chwcc
+inputs.Add(new List<string> { "2-7 m: mpmmmmm
+inputs.Add(new List<string> { "1-2 x: xxqxwm
+inputs.Add(new List<string> { "7-8 m: mmmmmmmmm
+inputs.Add(new List<string> { "5-8 h: hbhhwhkhqmkhh
+inputs.Add(new List<string> { "3-4 g: gwggk
+inputs.Add(new List<string> { "4-5 p: pmppp
+inputs.Add(new List<string> { "10-15 p: jcppppphvpvsqlpcdb
+inputs.Add(new List<string> { "2-8 w: wwvkzvmkwrxh
+inputs.Add(new List<string> { "18-19 h: jptsvhzvbnhbghmhghgn
+inputs.Add(new List<string> { "4-8 s: dhrscshhxczcfqdsm
+inputs.Add(new List<string> { "8-10 q: qqqqqqqlql
+inputs.Add(new List<string> { "13-17 c: lbmrzdcjcnwkclgcc
+inputs.Add(new List<string> { "12-13 w: wwtwwwwmrcrkwwwwwww
+inputs.Add(new List<string> { "5-16 j: jvqzfwsnqfdxfzdjj
+inputs.Add(new List<string> { "1-3 h: ddzmhh
+inputs.Add(new List<string> { "4-13 t: tttttttpctctrtztzqn
+inputs.Add(new List<string> { "3-4 z: zzzz
+inputs.Add(new List<string> { "1-18 w: txwwwwkwwwwwwwpwwwww
+inputs.Add(new List<string> { "5-14 l: cvrnvmrzlmkxgllr
+inputs.Add(new List<string> { "9-10 j: jjjjjjjjqv
+inputs.Add(new List<string> { "13-17 g: wgglspgdgxgpspbgwn
+inputs.Add(new List<string> { "13-15 s: sssssssssssssss
+inputs.Add(new List<string> { "8-9 v: mlxvtvjnt
+inputs.Add(new List<string> { "3-7 s: dgdjqnslcvsvdwsdfkvf
+inputs.Add(new List<string> { "2-3 q: mgqd
+inputs.Add(new List<string> { "2-3 x: xxstwczx
+inputs.Add(new List<string> { "2-6 p: nqqjzskbxzg
+inputs.Add(new List<string> { "4-5 g: qcxggbrnjzgdtq
+inputs.Add(new List<string> { "9-16 p: ppppppppcnbpvppphppr
+inputs.Add(new List<string> { "7-11 j: jjjjjjsjjjk
+inputs.Add(new List<string> { "3-6 n: cnnnnk
+inputs.Add(new List<string> { "3-6 l: glcllrllll
+inputs.Add(new List<string> { "2-3 s: scmxssssssssd
+inputs.Add(new List<string> { "8-16 c: cccfcccccccclbhcccc
+inputs.Add(new List<string> { "1-9 f: qfktgmfsgffqmsfsqp
+inputs.Add(new List<string> { "2-6 l: lhltlzlllqlwllzl
+inputs.Add(new List<string> { "5-10 b: flphbpspbbsbjnjf
+inputs.Add(new List<string> { "4-5 q: qbqcqq
+inputs.Add(new List<string> { "2-3 f: fgffstff
+inputs.Add(new List<string> { "3-10 w: wwwwwwwwwwwww
+inputs.Add(new List<string> { "11-12 d: ddddsdddddwkd
+inputs.Add(new List<string> { "6-9 h: hhhhfdqhhhq
+inputs.Add(new List<string> { "13-14 z: zzzzdxszzzzzzgzzzz
+inputs.Add(new List<string> { "3-4 l: lljjcnrlwsg
+inputs.Add(new List<string> { "7-9 c: jccsccccccc
+inputs.Add(new List<string> { "1-13 k: gkkkkkkkkkkksk
+inputs.Add(new List<string> { "6-13 w: wwwwxwwwwhwfrwwww
+inputs.Add(new List<string> { "5-6 z: zzzhjczzzzz
+inputs.Add(new List<string> { "4-5 t: ttttt
+inputs.Add(new List<string> { "5-9 j: jjjfjjjkkjjz
+inputs.Add(new List<string> { "5-11 l: lfzlxtbnlhrdl
+inputs.Add(new List<string> { "16-17 l: llklllllllllllllsl
+inputs.Add(new List<string> { "2-5 b: bbbbbbbd
+inputs.Add(new List<string> { "8-10 l: llllrllxld
+inputs.Add(new List<string> { "4-14 t: vxgtxxcvrlspxw
+inputs.Add(new List<string> { "2-4 b: jkhv
+inputs.Add(new List<string> { "10-11 f: zfffffffwkx
+inputs.Add(new List<string> { "3-4 w: wvvr
+inputs.Add(new List<string> { "6-14 h: rlcvzhgdhsrqchxvktrz
+inputs.Add(new List<string> { "12-16 r: kglbvbwtpfprrshrwc
+inputs.Add(new List<string> { "5-10 x: pktbxxxcxx
+inputs.Add(new List<string> { "4-6 d: dddmdsd
+inputs.Add(new List<string> { "4-7 x: xxxrjxcxxx
+inputs.Add(new List<string> { "1-7 m: tmnlwczfmqmmhfmc
+inputs.Add(new List<string> { "1-5 x: xxxhqkx
+inputs.Add(new List<string> { "5-15 t: trlltgtdqbttwst
+inputs.Add(new List<string> { "2-4 g: gggg
+inputs.Add(new List<string> { "3-6 n: qnnmnnnqwnjn
+inputs.Add(new List<string> { "5-14 g: gdwwwmgjrztgqcgmg
+inputs.Add(new List<string> { "2-4 s: psks
+inputs.Add(new List<string> { "6-7 h: qhbhhrhhh
+inputs.Add(new List<string> { "8-12 p: gdhhpndpkxsl
+inputs.Add(new List<string> { "5-6 p: pnptpp
+inputs.Add(new List<string> { "2-8 n: gnnznvnn
+inputs.Add(new List<string> { "14-19 z: zzkzzzzzzzzzzzzzzzzz
+inputs.Add(new List<string> { "5-10 h: wrzdwvvwftdgnthkfn
+inputs.Add(new List<string> { "2-4 t: lbnt
+inputs.Add(new List<string> { "8-12 b: bbbbbbnbbrbbbb
+inputs.Add(new List<string> { "2-3 x: xldp
+inputs.Add(new List<string> { "4-10 s: srsqqbrjndfwtnvwjww
+inputs.Add(new List<string> { "9-11 s: sssssssssbs
+inputs.Add(new List<string> { "5-9 q: qqqqvqqqvq
+inputs.Add(new List<string> { "2-4 b: jbrbtbtqfbqltb
+inputs.Add(new List<string> { "8-10 w: wwwwwwwwwww
+inputs.Add(new List<string> { "2-3 m: mmsm
+inputs.Add(new List<string> { "7-9 d: dddddkdddddddd
+inputs.Add(new List<string> { "5-6 c: cdxcccclc
+inputs.Add(new List<string> { "2-5 m: bhxmrxf
+inputs.Add(new List<string> { "7-14 w: wwwwdwrwwwwwqt
+inputs.Add(new List<string> { "16-17 d: dddddddddddddddqpd
+inputs.Add(new List<string> { "13-14 f: fffffffffffffd
+inputs.Add(new List<string> { "8-10 b: bnfqbqbxbxbb
+inputs.Add(new List<string> { "1-4 c: lcmb
+inputs.Add(new List<string> { "1-5 m: lmmnbkm
+inputs.Add(new List<string> { "10-18 v: vvvvvvvvvvvvvvvvvvvv
+inputs.Add(new List<string> { "2-3 f: wffrjzmbf
+inputs.Add(new List<string> { "5-11 t: tltkttgtqcttlt
+inputs.Add(new List<string> { "1-3 f: ffxffsscddh
+inputs.Add(new List<string> { "5-6 q: qdtmqqh
+inputs.Add(new List<string> { "2-6 d: jtddnpdmdk
+inputs.Add(new List<string> { "12-13 z: ztfpczcrzzqzzt
+inputs.Add(new List<string> { "11-17 x: xfxxxxhxxxkxxxxxt
+inputs.Add(new List<string> { "7-8 l: fhpcltllq
+inputs.Add(new List<string> { "1-3 k: bkdkk
+inputs.Add(new List<string> { "2-3 k: vkks
+inputs.Add(new List<string> { "6-8 c: pzvhwdlkpfc
+inputs.Add(new List<string> { "10-11 z: zzfzfzzzzzzzz
+inputs.Add(new List<string> { "3-4 p: ppllpvk
+inputs.Add(new List<string> { "12-13 b: bbbbbbbbbbblbb
+inputs.Add(new List<string> { "9-12 x: nlxxcxtxhjhx
+inputs.Add(new List<string> { "2-3 q: zqqqg
+inputs.Add(new List<string> { "5-13 m: mmmmkmmmmmmmm
+inputs.Add(new List<string> { "3-5 r: rsrtt
+inputs.Add(new List<string> { "1-8 d: dkvnxddd
+inputs.Add(new List<string> { "15-17 q: qqghqqqlsqdxqqqqq
+inputs.Add(new List<string> { "5-6 l: bllzxlll
+inputs.Add(new List<string> { "15-16 l: lllllllllllllwqll
+inputs.Add(new List<string> { "2-7 b: brmbptt
+inputs.Add(new List<string> { "2-19 m: wbjmmzmdmccnmjmmmxxm
+inputs.Add(new List<string> { "2-11 m: gmmmvcfmxhn
+inputs.Add(new List<string> { "13-15 v: vvbvxvvdldvnvtv
+inputs.Add(new List<string> { "15-16 t: tkttvttttttttsbf
+inputs.Add(new List<string> { "12-16 k: jkkkkkkkqkkkkfkkk
+inputs.Add(new List<string> { "12-15 d: hdpgdjbktdbsdtpjq
+inputs.Add(new List<string> { "2-10 v: vbvhvvvvvvwrsvvvv
+inputs.Add(new List<string> { "2-6 v: vzvvvvvvvvv
+inputs.Add(new List<string> { "8-11 q: qqqqkqqnqqv
+inputs.Add(new List<string> { "3-5 h: dcrhp
+inputs.Add(new List<string> { "6-7 b: bbpbbbrb
+inputs.Add(new List<string> { "2-17 q: qqqqqqqqqqqqqqqqqq
+inputs.Add(new List<string> { "11-12 h: hhhvhgzhhhxh
+inputs.Add(new List<string> { "12-14 p: pppppppppppppnp
+inputs.Add(new List<string> { "3-4 r: rlrrb
+inputs.Add(new List<string> { "4-9 s: zsskkscxs
+inputs.Add(new List<string> { "1-9 k: kkwkkkkgk
+inputs.Add(new List<string> { "7-10 q: dqnqqqpkqqqqsgbl
+inputs.Add(new List<string> { "11-13 p: ppppphqpppppp
+inputs.Add(new List<string> { "4-5 z: zzzwz
+inputs.Add(new List<string> { "3-7 j: mxjcjjjjbdfsjqhkff
+inputs.Add(new List<string> { "10-14 b: nqbkbplzwqhzhdhfbj
+inputs.Add(new List<string> { "5-6 t: ttnjqtqttt
+inputs.Add(new List<string> { "8-10 g: bkkggbzgctgk
+inputs.Add(new List<string> { "6-8 c: cccccsbf
+inputs.Add(new List<string> { "1-2 w: twwb
+inputs.Add(new List<string> { "3-8 n: snnqvqsfzhm
+inputs.Add(new List<string> { "5-6 z: mvzzzqzzvz
+inputs.Add(new List<string> { "14-18 b: bbbbsbbbbbbbbpbbbw
+inputs.Add(new List<string> { "11-12 f: fffffffffffv
+inputs.Add(new List<string> { "15-20 n: hnnnccnkftnzmszkllsg
+inputs.Add(new List<string> { "9-10 h: gcjhhhhsfmhhc
+inputs.Add(new List<string> { "11-18 t: ttttttttttrttttttpr
+inputs.Add(new List<string> { "6-16 x: xxxxxxxxxxxxxxxxx
+inputs.Add(new List<string> { "7-11 m: lcqggxfsbtphbqc
+inputs.Add(new List<string> { "7-20 t: khkhptldltdrtfcttwcp
+inputs.Add(new List<string> { "1-4 m: dmnxmmm
+inputs.Add(new List<string> { "15-16 n: qbxxtldfstdstbgtrx
+inputs.Add(new List<string> { "2-4 p: hhps
+inputs.Add(new List<string> { "8-18 g: gggggggjggggggggggg
+inputs.Add(new List<string> { "11-14 c: qccccccccclccnc
+inputs.Add(new List<string> { "5-6 s: fsnscs
+inputs.Add(new List<string> { "9-13 w: wkwkwwwwmvjrwdwwwvw
+inputs.Add(new List<string> { "16-17 r: rrrrrrrrrrrrrrrrz
+inputs.Add(new List<string> { "15-17 q: qqqdqqqqqqqrqqqqjqq
+inputs.Add(new List<string> { "6-11 d: dddvdmddndbddtt
+inputs.Add(new List<string> { "5-18 q: dvxkqjbqkkqqmtwjtmq
+inputs.Add(new List<string> { "4-6 k: tkgkkk
+inputs.Add(new List<string> { "2-5 m: mgmmm
+inputs.Add(new List<string> { "3-4 k: kkkkkk
+inputs.Add(new List<string> { "1-4 b: qbbhjjgvlbsrrtbbgx
+inputs.Add(new List<string> { "1-6 n: lnnnft
+inputs.Add(new List<string> { "12-15 d: hdfltndlzbcdzfd
+inputs.Add(new List<string> { "3-8 l: sdlzgldl
+inputs.Add(new List<string> { "11-12 w: wwwpgrwzwwpwwrgdwzw
+inputs.Add(new List<string> { "8-9 f: dplhfcvffffrqf
+inputs.Add(new List<string> { "4-6 w: ztvztwwgwq
+inputs.Add(new List<string> { "3-8 c: zdpcccvzntfc
+inputs.Add(new List<string> { "2-4 w: cgfcrslfwldbzsdxd
+inputs.Add(new List<string> { "7-12 h: hhhhhhxhhhhhhhh
+inputs.Add(new List<string> { "3-5 n: nnnbnnnnnnnnnnnnnnn
+inputs.Add(new List<string> { "14-15 j: jjjdjjjjjcjjjhtjjjj
+inputs.Add(new List<string> { "3-4 j: jszj
+inputs.Add(new List<string> { "2-5 v: vvvvv
+inputs.Add(new List<string> { "1-3 k: tkpk
+inputs.Add(new List<string> { "6-7 l: lllllll
+inputs.Add(new List<string> { "3-4 m: sxcb
+inputs.Add(new List<string> { "3-8 s: wssssssctsk
+inputs.Add(new List<string> { "13-15 t: tltrthphnvrfhtt
+inputs.Add(new List<string> { "2-14 k: krkkkkkkkkkkkpkknkkk
+inputs.Add(new List<string> { "4-7 x: xdzxxlx
+inputs.Add(new List<string> { "11-16 j: jrrtjtjstrjtfjjjj
+inputs.Add(new List<string> { "4-7 r: drrdbnjhb
+inputs.Add(new List<string> { "4-10 q: thqqhgqqfrr
+inputs.Add(new List<string> { "11-12 r: rrpwrrzrsrrr
+inputs.Add(new List<string> { "10-17 g: gmwpvcbxtgjlcgznlrjp
+inputs.Add(new List<string> { "13-17 b: knbpcbzxvnvnnxwhwnzj
+inputs.Add(new List<string> { "2-4 c: ccctcc
+inputs.Add(new List<string> { "7-10 t: kstttdlttn
+inputs.Add(new List<string> { "6-7 b: bbbfbbb
+inputs.Add(new List<string> { "13-14 c: txhkmvxwqjdjph
+inputs.Add(new List<string> { "9-10 n: pknnpbstnnwztsjkfc
+inputs.Add(new List<string> { "4-5 k: kqtqk
+inputs.Add(new List<string> { "13-15 p: kndptjczrnqtphl
+inputs.Add(new List<string> { "1-3 x: pxxxx
+inputs.Add(new List<string> { "11-12 r: lrcgqtrmjjrrxhg
+inputs.Add(new List<string> { "1-4 f: ffdf
+inputs.Add(new List<string> { "7-18 d: cdddddsddddddddddd
+inputs.Add(new List<string> { "4-10 r: rrrrrwrrrrrf
+inputs.Add(new List<string> { "11-12 p: dpvmgjrmfspp
+inputs.Add(new List<string> { "1-2 q: snqqqgq
+inputs.Add(new List<string> { "11-12 x: fxxxhxxxlxbxxqx
+inputs.Add(new List<string> { "3-4 p: kscf
+inputs.Add(new List<string> { "13-16 n: nnnnnnnnnnnnnnnnn
+inputs.Add(new List<string> { "3-4 h: phpqz
+inputs.Add(new List<string> { "1-2 c: ccccc
+inputs.Add(new List<string> { "7-15 f: fffbffhfkfjfftfgf
+inputs.Add(new List<string> { "2-3 q: wqwqqspqq
+inputs.Add(new List<string> { "12-14 j: jqjjjgsjjjjgjj
+inputs.Add(new List<string> { "2-13 b: bbbjbblvgbbbbbbbdb
+inputs.Add(new List<string> { "4-7 t: thxhnps
+inputs.Add(new List<string> { "6-9 n: nvqjgjmxlb
+inputs.Add(new List<string> { "2-5 k: kkmknkkk
+inputs.Add(new List<string> { "9-13 z: szqlkssjlzzzbtcv
+inputs.Add(new List<string> { "9-10 w: hwwwwwwwww
+inputs.Add(new List<string> { "15-16 s: sssssssssssssshk
+inputs.Add(new List<string> { "1-6 q: qqtwqqqw
+inputs.Add(new List<string> { "1-7 s: sssssssss
+inputs.Add(new List<string> { "1-5 n: nnnnkzn
+inputs.Add(new List<string> { "9-16 x: rdxxzkvhnxwxlxnl
+inputs.Add(new List<string> { "16-18 g: gggsgggggggggggbgrgg
+inputs.Add(new List<string> { "10-15 s: sssszsssswcsssg
+inputs.Add(new List<string> { "7-11 n: ndlwfrtcnntdjbtgz
+inputs.Add(new List<string> { "1-3 c: cccdzb
+inputs.Add(new List<string> { "7-9 n: bczssstrkctjxttmhgcg
+inputs.Add(new List<string> { "2-3 d: dthdd
+inputs.Add(new List<string> { "6-10 l: llllllllll
+inputs.Add(new List<string> { "4-5 t: tptttgwtttd
+inputs.Add(new List<string> { "5-6 l: llllzml
+inputs.Add(new List<string> { "4-5 g: ggggggxglgdggggw
+inputs.Add(new List<string> { "2-9 r: rrxrrrrrmrp
+inputs.Add(new List<string> { "19-20 g: gpgbgkqggglqghgghtpl
+inputs.Add(new List<string> { "5-6 k: skfmkk
+inputs.Add(new List<string> { "5-13 f: pwwkfglvfntqntptggfb
+inputs.Add(new List<string> { "7-8 w: wwwwwwwww
+inputs.Add(new List<string> { "4-6 w: wwwwbwdsh
+inputs.Add(new List<string> { "1-2 l: lllp
+inputs.Add(new List<string> { "6-7 q: qqqqqwx
+inputs.Add(new List<string> { "10-11 m: btmwwldfzhw
+inputs.Add(new List<string> { "12-13 j: jfjjjjjjjjjjjjj
+inputs.Add(new List<string> { "2-6 n: cmfsjnrhlsf
+inputs.Add(new List<string> { "4-5 q: qqqlbq
+inputs.Add(new List<string> { "13-15 z: zzzzzzzzzzzzlzzz
+inputs.Add(new List<string> { "4-6 m: mpsqmhmzmn
+inputs.Add(new List<string> { "5-9 s: dswmrsxvkwrfnc
+inputs.Add(new List<string> { "8-10 v: vvvvvvvvvvvv
+inputs.Add(new List<string> { "14-16 h: hhhhhhhhhbhhhhhhh
+inputs.Add(new List<string> { "9-10 p: bphppnwzmpp
+inputs.Add(new List<string> { "6-7 x: xxxxgdzx
+inputs.Add(new List<string> { "3-4 j: smshf
+inputs.Add(new List<string> { "3-4 h: whnj
+inputs.Add(new List<string> { "6-8 z: zzzzzlztzz
+inputs.Add(new List<string> { "5-6 v: vvrcgvlbvczfbqvv
+inputs.Add(new List<string> { "1-3 v: vvdvv
+inputs.Add(new List<string> { "3-5 t: smtgts
+inputs.Add(new List<string> { "6-7 b: fbbkblbxpbnrw
+inputs.Add(new List<string> { "12-15 t: ttttttttttttwtvtttt
+inputs.Add(new List<string> { "3-4 s: psss
+inputs.Add(new List<string> { "13-17 x: xxxxxrzxxxxxxjgbxxx
+inputs.Add(new List<string> { "9-10 r: rdmrrhrrrrprrsrrh
+inputs.Add(new List<string> { "4-5 j: tjpgtjn
+inputs.Add(new List<string> { "2-11 n: ncdwnnwnntnvpnnznjnn
+inputs.Add(new List<string> { "3-5 d: ddmxtddjddddddd
+inputs.Add(new List<string> { "1-5 z: zzzskzc
+inputs.Add(new List<string> { "1-8 d: dwnlmtjdfsdmddrsdwd
+inputs.Add(new List<string> { "4-11 k: hllktmpbndlgphxb
+inputs.Add(new List<string> { "3-6 n: tnncnnnqdbgmgnn
+inputs.Add(new List<string> { "12-13 x: xxcxxxxxxxxctxx
+inputs.Add(new List<string> { "5-10 s: sssslsxmssss
+inputs.Add(new List<string> { "1-6 x: xxxxxxxv
+inputs.Add(new List<string> { "6-9 n: nxjfsbqppwhnn
+inputs.Add(new List<string> { "5-7 j: jjjjjjjjjfjmtln
+inputs.Add(new List<string> { "6-11 d: dddddfddddddjd
+inputs.Add(new List<string> { "3-5 s: fshssvps
+inputs.Add(new List<string> { "1-5 k: tkkfhkk
+inputs.Add(new List<string> { "3-7 h: pwjbmswg
+inputs.Add(new List<string> { "1-5 k: kkkkkkvtkt
+inputs.Add(new List<string> { "8-10 j: jjjjjwjjqj
+inputs.Add(new List<string> { "16-17 g: pggznvrnxlgdrlvgg
+inputs.Add(new List<string> { "2-4 z: zzjf
+inputs.Add(new List<string> { "2-5 h: dmltcxthx
+inputs.Add(new List<string> { "1-3 m: mmmmm
+inputs.Add(new List<string> { "14-15 g: ggggggggggglglgm
+inputs.Add(new List<string> { "4-6 m: wvmmdm
+inputs.Add(new List<string> { "11-14 c: ccccccccccccdcz
+inputs.Add(new List<string> { "9-10 w: qswzbfwbww
+inputs.Add(new List<string> { "15-20 s: qblspjsxzpsqlgktwssc
+inputs.Add(new List<string> { "11-12 q: qzqcqkqqfqqgqqqbpww
+inputs.Add(new List<string> { "3-5 d: ddfdwv
+inputs.Add(new List<string> { "2-10 t: vwjlkzjwztrmrmbwftnj
+inputs.Add(new List<string> { "8-10 s: sssssssssx
+inputs.Add(new List<string> { "13-14 r: rrrrnfrhmrrrrr
+inputs.Add(new List<string> { "6-10 l: mgpjzjshjdc
+inputs.Add(new List<string> { "1-6 l: llllhlldll
+inputs.Add(new List<string> { "11-12 q: qqqqqqqqqqqq
+inputs.Add(new List<string> { "3-4 w: wzzsk
+inputs.Add(new List<string> { "7-9 x: xxxxwbchx
+inputs.Add(new List<string> { "3-4 k: kkbx
+inputs.Add(new List<string> { "8-9 h: bhvhhqhhn
+inputs.Add(new List<string> { "10-11 k: bkbkztrzrfk
+inputs.Add(new List<string> { "3-8 p: gdptpvpp
+inputs.Add(new List<string> { "11-12 s: ssmrsssstsbj
+inputs.Add(new List<string> { "3-4 w: lgxvgbkwdggwfhwn
+inputs.Add(new List<string> { "8-12 z: xmdzgsrzmnck
+inputs.Add(new List<string> { "2-3 g: gjfvtgrrfg
+inputs.Add(new List<string> { "9-11 n: nnnnnnnnnnnn
+inputs.Add(new List<string> { "10-17 d: dddddddddqddddddgd
+inputs.Add(new List<string> { "12-13 b: bbbbbbbbbbvxb
+inputs.Add(new List<string> { "10-14 q: qqqgsxdqdpqrqqcb
+inputs.Add(new List<string> { "2-6 n: fhzqdzp
+inputs.Add(new List<string> { "3-5 n: fknfn
+inputs.Add(new List<string> { "6-7 g: gvtqlgz
+inputs.Add(new List<string> { "16-19 z: jzlhzxtvgzzvfvhmrsb
+inputs.Add(new List<string> { "9-10 z: zkztlzjzmrr
+inputs.Add(new List<string> { "14-15 p: pppppppppppppfpp
+inputs.Add(new List<string> { "8-14 z: zzzzzzzszzzzzxz
+inputs.Add(new List<string> { "11-17 f: vfbzfcffffffffffpf
+inputs.Add(new List<string> { "16-20 p: hqgnrpzcxvqhgnqrbfcp
+inputs.Add(new List<string> { "14-15 x: xdptxmxxnchxxklcxzrx
+inputs.Add(new List<string> { "10-14 p: wxtxgvncxpgppppbflkp
+inputs.Add(new List<string> { "6-7 k: fllvzqjkpkkjnlnkbjk
+inputs.Add(new List<string> { "2-4 p: hxjzvkqflmktcvpk
+inputs.Add(new List<string> { "4-8 m: zpbmcqhmxnbmpmdhkdxz
+inputs.Add(new List<string> { "5-7 d: bnbdcccnvcdrpg
+inputs.Add(new List<string> { "15-19 g: gjgggggggggggfggggj
+inputs.Add(new List<string> { "7-11 v: kvvzjvqfjvlvksrphv
+inputs.Add(new List<string> { "2-15 j: jxzwjwtjjxlxjjjjjjjj
+inputs.Add(new List<string> { "9-13 n: nnnnnnnnznnnznnpbn
+inputs.Add(new List<string> { "8-9 j: ljjjnjgjjvjdjfjl
+inputs.Add(new List<string> { "6-7 q: qqqvqkqqn
+inputs.Add(new List<string> { "5-6 w: twldlwww
+inputs.Add(new List<string> { "10-13 k: kkkkfkkkkglkv
+inputs.Add(new List<string> { "11-19 c: vzgccvbksxwcvhxglkw
+inputs.Add(new List<string> { "3-5 h: hhjhwp
+inputs.Add(new List<string> { "4-5 x: zxkcx
+inputs.Add(new List<string> { "2-3 m: rmjrvlsm
+inputs.Add(new List<string> { "2-4 v: vvvvvv
+inputs.Add(new List<string> { "1-5 g: ggggbg
+inputs.Add(new List<string> { "4-5 q: qqqlkqqq
+inputs.Add(new List<string> { "4-5 j: tjznjjm
+inputs.Add(new List<string> { "1-12 g: ggggggggggggg
+inputs.Add(new List<string> { "1-10 s: dssssssssssss
+inputs.Add(new List<string> { "6-7 r: rfrrrrmrr
+inputs.Add(new List<string> { "3-6 s: hljhqs
+inputs.Add(new List<string> { "2-11 j: jfjjljsjdcr
+inputs.Add(new List<string> { "7-8 m: smzmmmmm
+inputs.Add(new List<string> { "6-8 h: mhhmsxhqthcfb
+inputs.Add(new List<string> { "2-9 w: jwlbwngdw
+inputs.Add(new List<string> { "4-7 v: vvvlvvzvv
+inputs.Add(new List<string> { "5-9 z: bgzbzpfvjqvkbqstg
+inputs.Add(new List<string> { "6-10 v: pvslvlvlvv
+inputs.Add(new List<string> { "6-13 x: tbmsxxxjdwnfr
+inputs.Add(new List<string> { "11-13 r: rrzrpwprrrrrrd
+inputs.Add(new List<string> { "14-15 k: pdbnmhrfppnxfkkvfxvk
+inputs.Add(new List<string> { "10-12 t: tttttttttttgtttt
+inputs.Add(new List<string> { "6-8 g: ltbggnrgr
+inputs.Add(new List<string> { "9-12 d: dpdddddddddd
+inputs.Add(new List<string> { "10-11 q: sqrqqqqqqqq
+inputs.Add(new List<string> { "4-14 j: jjjjjjjjjjjjjjjjjj
+inputs.Add(new List<string> { "15-16 c: cccccccccccccctc
+inputs.Add(new List<string> { "4-9 z: gzzzzzhzzbzzzdv
+inputs.Add(new List<string> { "2-13 x: glxmkxxxxxxxxxx
+inputs.Add(new List<string> { "3-12 n: ccnvfnxxkpdxnpdppcn
+inputs.Add(new List<string> { "4-7 w: wnrwlzwrlbrrwvs
+inputs.Add(new List<string> { "13-16 t: tttttmttttttwtttt
+inputs.Add(new List<string> { "5-6 l: cllhqlzlblv
+inputs.Add(new List<string> { "13-15 s: mtfbvkkjznwsssl
+inputs.Add(new List<string> { "2-13 k: lksdvschkvfchrwkf
+inputs.Add(new List<string> { "3-6 j: fdjnjbf
+inputs.Add(new List<string> { "7-8 l: llrzbldc
+inputs.Add(new List<string> { "2-4 l: ljnrv
+inputs.Add(new List<string> { "1-5 h: qhhpt
+inputs.Add(new List<string> { "2-4 k: rhwkqk
+inputs.Add(new List<string> { "17-20 d: cqdxmvnqtdddddznnddl
+inputs.Add(new List<string> { "1-4 z: zzzzz
+inputs.Add(new List<string> { "3-10 v: vvgvvvvvvtvvvvh
+inputs.Add(new List<string> { "4-9 q: fwqnjqqjkjq
+inputs.Add(new List<string> { "9-17 r: rrrrrrrrrjrrrcwrtf
+inputs.Add(new List<string> { "4-5 k: kkkzkkkk
+inputs.Add(new List<string> { "9-14 m: mmhmmfhhmmmsmm
+inputs.Add(new List<string> { "6-9 h: hshhhhhhh
+inputs.Add(new List<string> { "3-4 n: ngnnn
+inputs.Add(new List<string> { "8-17 b: zbvbpgqbsrzwmxzdbfw
+inputs.Add(new List<string> { "4-8 k: wktkzcbg
+inputs.Add(new List<string> { "8-9 w: wwddwcrwwpkbswswwkx
+inputs.Add(new List<string> { "5-13 d: dndddpfdzfdvpzdhddd
+inputs.Add(new List<string> { "11-16 p: fplppmnxvzpqsngpp
+inputs.Add(new List<string> { "1-12 h: hhbhhhhhqghhhhhhxhh
+inputs.Add(new List<string> { "11-12 z: zzzzzzzzzzhz
+inputs.Add(new List<string> { "3-5 h: bhdhkl
+inputs.Add(new List<string> { "3-4 h: hcvl
+inputs.Add(new List<string> { "3-4 d: zbddddcrpgdxddt
+inputs.Add(new List<string> { "17-18 j: qzwfjjkfpkggsjqvjwx
+inputs.Add(new List<string> { "9-13 j: wfjtjjjgjjmtjjwjlh
+inputs.Add(new List<string> { "2-5 f: xdpsfkpzvfmhf
+inputs.Add(new List<string> { "4-5 c: cccccc
+inputs.Add(new List<string> { "13-14 h: hhhjhhhhhhhmshhh
+inputs.Add(new List<string> { "9-14 t: tttttttttttttntth
+inputs.Add(new List<string> { "5-6 s: ssssdks
+inputs.Add(new List<string> { "1-8 t: tgbtdkht
+inputs.Add(new List<string> { "4-8 h: mhbhpvhh
+inputs.Add(new List<string> { "17-18 x: xxxnxqjgxclqkxxxxx
+inputs.Add(new List<string> { "2-5 g: jmvmgnghr
+inputs.Add(new List<string> { "13-16 n: nnnnnnhqnnnnnvnnn
+inputs.Add(new List<string> { "3-7 v: ngqvtvfbdlr
+inputs.Add(new List<string> { "8-14 c: cnmrshvhlqnchtcbrgh
+inputs.Add(new List<string> { "7-9 n: tfqswnnrg
+inputs.Add(new List<string> { "11-16 x: kgxgvcftmxgxbnxg
+inputs.Add(new List<string> { "2-4 n: zqnd
+inputs.Add(new List<string> { "1-3 w: wwwncwwwkwfww
+inputs.Add(new List<string> { "8-9 z: zzzbzzzzzzzzzzzzz
+inputs.Add(new List<string> { "17-20 k: kkkkkkkkkkkkkkkkkkkk
+inputs.Add(new List<string> { "3-5 q: hjqrqsq
+inputs.Add(new List<string> { "12-13 h: hhhhhhhhfhhhh
+inputs.Add(new List<string> { "3-4 x: gxxjphxx
+inputs.Add(new List<string> { "4-6 g: sbwggg
