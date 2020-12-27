@@ -180,11 +180,11 @@ namespace Advent_Day2
             inputs.Add(new List<string> { "8", "11", "f", "fffffffffffffffff" });
             inputs.Add(new List<string> { "1", "3", "h", "hhhhhhh" });
             inputs.Add(new List<string> { "4", "5", "d", "vddxnd" });
-            inputs.Add(new List<string> { "2","10","h","hxhhhhhhhhhh" });
-            inputs.Add(new List<string> { "11","13","c","vrmccccccqcccccchnk" });
-            inputs.Add(new List<string> { "8","14","l","llrlllllllllqljjm" });
-            inputs.Add(new List<string> { "9","15","g","bkglbmgfgkfxnblg" });
-            ////inputs.Add(new List<string> { "14","16","c","ccccbccccccccccccccc" });
+            inputs.Add(new List<string> { "2", "10", "h", "hxhhhhhhhhhh" });
+            inputs.Add(new List<string> { "11", "13", "c", "vrmccccccqcccccchnk" });
+            inputs.Add(new List<string> { "8", "14", "l", "llrlllllllllqljjm" });
+            inputs.Add(new List<string> { "9", "15", "g", "bkglbmgfgkfxnblg" });
+            //inputs.Add(new List<string> { "14", "16", "c", "ccccbccccccccccccccc" });
             //inputs.Add(new List<string> { "3-5", "l", "llglx" });
             inputs.Add(new List<string> { "1", "7", "t", "qtttgtn" });
             inputs.Add(new List<string> { "6", "8", "j", "jjjjjjjjkjjjj" });
@@ -1014,27 +1014,49 @@ namespace Advent_Day2
             inputs.Add(new List<string> { "3", "4", "x", "gxxjphxx" });
             inputs.Add(new List<string> { "4", "6", "g", "sbwggg" });
 
+
+            ////PART1
+            //foreach (List<string> subList in inputs)
+            //{
+            //        string psswrd = subList[3];
+            //        char letter = char.Parse(subList[2]);
+            //        int max = Int32.Parse(subList[1]);
+            //        int min = Int32.Parse(subList[0]);
+
+            //    if (psswrd.Contains(letter))
+            //    {
+            //        var count = psswrd.Count(x => x == letter);
+
+            //        if (count <= max && count >= min)
+            //        {
+            //            counter++;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine(counter);
+
+            //PART2
             foreach (List<string> subList in inputs)
             {
-                    string psswrd = subList[3];
-                    char letter = char.Parse(subList[2]);
-                    int max = Int32.Parse(subList[1]);
-                    int min = Int32.Parse(subList[0]);
+                int pos1 = Int32.Parse(subList[0])-1;
+                int pos2 = Int32.Parse(subList[1])-1;
+                char letter = char.Parse(subList[2]);
+                string psswrd = subList[3];
 
-                if (psswrd.Contains(letter))
+
+                if (psswrd.IndexOf(letter, pos1,1)==pos1 || psswrd.IndexOf(letter, pos2, 1) == pos2)
                 {
-                    var count = psswrd.Count(x => x == letter);
-
-                    if (count <= max && count >= min)
+                    if (psswrd.IndexOf(letter, pos1, 1) == pos1 && psswrd.IndexOf(letter, pos2, 1) == pos2)
+                    {
+                    }
+                    else
                     {
                         counter++;
                     }
                 }
             }
-            
-
-            
             Console.WriteLine(counter);
+
         }
     }
 }
