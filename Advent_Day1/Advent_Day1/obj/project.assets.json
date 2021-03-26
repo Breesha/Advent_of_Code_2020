@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SPARTA\\Christmas\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\Advent_Day1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SPARTA\\TRAINING\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\Advent_Day1.csproj",
       "projectName": "Advent_Day1",
-      "projectPath": "C:\\Users\\User\\Desktop\\SPARTA\\Christmas\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\Advent_Day1.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SPARTA\\TRAINING\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\Advent_Day1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SPARTA\\Christmas\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SPARTA\\TRAINING\\Advent_of_Code_2020\\Advent_Day1\\Advent_Day1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
