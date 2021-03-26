@@ -594,12 +594,55 @@ namespace Advent_Day4
 
             for (int i = 0; i < longInput.Count; i++)
             {
+                /* PART 1
                 if (longInput[i].Contains("byr:") && longInput[i].Contains("iyr:") && longInput[i].Contains("eyr:") && longInput[i].Contains("hgt:") && longInput[i].Contains("hcl:") && longInput[i].Contains("ecl:") && longInput[i].Contains("pid:"))
                 {
-                     counter++;
+                     //counter++;
+                }
+                */
+
+                if (longInput[i].Contains("ecl:amb ") || longInput[i].Contains("ecl:blu ") || longInput[i].Contains("ecl:brn ") || longInput[i].Contains("ecl:gry ") || longInput[i].Contains("ecl:grn ") || longInput[i].Contains("ecl:hzl ") || longInput[i].Contains("ecl:oth "))
+                {
+                    counter++;
+                }
+                for (int b = 1920; b < 2003; b++)
+                {
+                    if (longInput[i].Contains($"byr:{b}"))
+                    {
+                        Console.WriteLine(longInput[i]);
+                    }
+                }
+                for (int issue = 2010; issue < 2021; issue++)
+                {
+                    if (longInput[i].Contains($"iyr:{issue}"))
+                    {
+
+                    }
+                }
+                for (int e = 2020; e < 2031; e++)
+                {
+                    if (longInput[i].Contains($"eyr:{e}"))
+                    {
+
+                    }
+                }
+                for (int hcm = 150; hcm < 194; hcm++)
+                {
+                    if (longInput[i].Contains($"hgt:{hcm}cm"))
+                    {
+
+                    }
+                }
+                for (int hin = 59; hin < 77; hin++)
+                {
+                    if (longInput[i].Contains($"hgt:{hin}in"))
+                    {
+
+                    }
                 }
             }
 
+            
             
             Console.WriteLine(counter);
         }
