@@ -8,7 +8,7 @@ namespace Advent_Day4
     {
         static void Main(string[] args)
         {
-            int counter = 0;
+            
             List<string> longInput = new List<string>()
             {
 "hcl:5d90f0 cid:270 ecl:#66dc9c hgt:62cm byr:1945 pid:63201172 eyr:2026",
@@ -592,8 +592,13 @@ namespace Advent_Day4
 "hcl:#7d3b0c pid:431742871 ecl:hzl hgt:169cm cid:340 eyr:2023 iyr:2017 byr:1994"
             };
 
-            for (int i = 0; i < longInput.Count; i++)
+            int correct = 0;
+
+            for (int i = 0; i <= longInput.Count; i++)
             {
+                int counter = 0;
+                int countcm = 0;
+                int countin = 0;
                 /* PART 1
                 if (longInput[i].Contains("byr:") && longInput[i].Contains("iyr:") && longInput[i].Contains("eyr:") && longInput[i].Contains("hgt:") && longInput[i].Contains("hcl:") && longInput[i].Contains("ecl:") && longInput[i].Contains("pid:"))
                 {
@@ -601,50 +606,103 @@ namespace Advent_Day4
                 }
                 */
 
-                if (longInput[i].Contains("ecl:amb ") || longInput[i].Contains("ecl:blu ") || longInput[i].Contains("ecl:brn ") || longInput[i].Contains("ecl:gry ") || longInput[i].Contains("ecl:grn ") || longInput[i].Contains("ecl:hzl ") || longInput[i].Contains("ecl:oth "))
+                if (longInput[i].Contains("ecl:amb") || longInput[i].Contains("ecl:blu") || longInput[i].Contains("ecl:brn") || longInput[i].Contains("ecl:gry") || longInput[i].Contains("ecl:grn") || longInput[i].Contains("ecl:hzl") || longInput[i].Contains("ecl:oth"))
                 {
                     counter++;
                 }
                 for (int b = 1920; b < 2003; b++)
                 {
-                    if (longInput[i].Contains($"byr:{b}"))
+                    if (longInput[i].Contains($"byr:{b} "))
                     {
-                        Console.WriteLine(longInput[i]);
+                        counter++;
                     }
                 }
                 for (int issue = 2010; issue < 2021; issue++)
                 {
-                    if (longInput[i].Contains($"iyr:{issue}"))
+                    if (longInput[i].Contains($"iyr:{issue} "))
                     {
-
+                        counter++;
                     }
                 }
                 for (int e = 2020; e < 2031; e++)
                 {
-                    if (longInput[i].Contains($"eyr:{e}"))
+                    if (longInput[i].Contains($"eyr:{e} "))
                     {
-
+                        counter++;
                     }
                 }
                 for (int hcm = 150; hcm < 194; hcm++)
                 {
-                    if (longInput[i].Contains($"hgt:{hcm}cm"))
+                    if (longInput[i].Contains($"hgt:{hcm}cm "))
                     {
-
+                        countcm++;
                     }
                 }
                 for (int hin = 59; hin < 77; hin++)
                 {
-                    if (longInput[i].Contains($"hgt:{hin}in"))
+                    if (longInput[i].Contains($"hgt:{hin}in "))
                     {
-
+                        countin++;
                     }
+                }
+                if (countin==1||countcm==1)
+                {
+                    counter++;
+                }
+                /*
+                https://www.c-sharpcorner.com/UploadFile/mahesh/substring-in-C-Sharp/ 
+                string stringAfterChar = longInput[i].Substring(longInput[i].IndexOf("hcl:#") + 4);
+                Console.WriteLine(stringAfterChar);
+                */
+                if (longInput[i].IndexOf("hcl:#")>=0)
+                {
+                    int firstStringPosition = longInput[i].IndexOf("hcl:#") +5;
+                    string stringBetweenTwoStrings = longInput[i].Substring(firstStringPosition,6);
+                    string allowable = "0123456789abcdef";
+                    int finaltotal = 0;
+
+                    foreach (char c in stringBetweenTwoStrings)
+                    {
+                        if (allowable.Contains(c.ToString()))
+                        {
+                            finaltotal++;
+                        }
+                    }
+                    if (finaltotal==6)
+                    {
+                        counter++;
+                    }
+                }
+                if (longInput[i].IndexOf("pid:")>=0 && longInput[i].Length>= longInput[i].IndexOf("pid:") + 12)
+                {
+                    int firstStringPosition = longInput[i].IndexOf("pid:") + 4;
+                    string stringBetweenTwoStrings = longInput[i].Substring(firstStringPosition, 9);
+                    
+                    string allowable = "0123456789";
+                    int finaltotal = 0;
+
+                    foreach (char c in stringBetweenTwoStrings)
+                    {
+                        if (allowable.Contains(c.ToString()))
+                        {
+                            finaltotal++;
+                        }
+                    }
+                    if (finaltotal == 9)
+                    {
+                        counter++;
+                    }
+                }
+
+                if (counter==7)
+                {
+                    correct++;
                 }
             }
 
             
             
-            Console.WriteLine(counter);
+            Console.WriteLine(correct);
         }
     }
 }

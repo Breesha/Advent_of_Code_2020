@@ -4,10 +4,10 @@ C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\bin\Debug\netcoreapp3.1\Advent_Day4.runtimeconfig.dev.json
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\bin\Debug\netcoreapp3.1\Advent_Day4.dll
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\bin\Debug\netcoreapp3.1\Advent_Day4.pdb
-C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.csprojAssemblyReference.cache
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.AssemblyInfo.cs
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.dll
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.pdb
 C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.genruntimeconfig.cache
+C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day4\Advent_Day4\obj\Debug\netcoreapp3.1\Advent_Day4.csprojAssemblyReference.cache
