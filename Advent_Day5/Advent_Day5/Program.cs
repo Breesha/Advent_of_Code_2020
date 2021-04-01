@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace Advent_Day5
@@ -7,7 +8,9 @@ namespace Advent_Day5
     {
         static void Main(string[] args)
         {
-            int maxSeatID = 0;
+            List<int> seatAll = new List<int>();
+
+            // PART 1 int maxSeatID = 0;
             string[] lines = File.ReadAllLines(@"C:\Users\User\Desktop\SPARTA\TRAINING\Advent_of_Code_2020\Advent_Day5\input.txt");
             foreach (var line in lines)
             {
@@ -21,6 +24,8 @@ namespace Advent_Day5
                 int seat = Convert.ToInt32(seatString, 2);
                 int seatID = (row * 8) + seat;
 
+                seatAll.Add(seatID);
+
                 //Console.WriteLine(replacementB);
                 //Console.WriteLine(rowString);
                 //Console.WriteLine(seatString);
@@ -28,12 +33,28 @@ namespace Advent_Day5
                 //Console.WriteLine(seat);
                 //Console.WriteLine(seatID);
 
+                /* PART 1
                 if (seatID>maxSeatID)
                 {
                     maxSeatID = seatID;
                 }
+                */
             }
-            Console.WriteLine(maxSeatID);
+            // PART 1 Console.WriteLine(maxSeatID);
+
+            //PART 2
+            seatAll.Sort();
+            for (int i = 100; i < 862; i++)
+            {
+                if (seatAll.Contains(i))
+                {
+
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
