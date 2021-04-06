@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 
 namespace Advent_Day6
 {
@@ -32,30 +33,37 @@ namespace Advent_Day6
             }
             Console.WriteLine(total);
             */
+
             int totalB = 0;
             foreach (var group in groups)
             {
                 string[] lines = group.Split("\n");
-                string allForThisGroup = "";
-                for (int i = 1; i < lines.Length; i++)
+                string anyYesAnswers = "";
+                for (int i = 0; i < lines.Length; i++)
                 {
-
                     foreach (char c in lines[i])
                     {
-                        if (lines[0].Contains(c) && !allForThisGroup.Contains(c))
+                        if (lines[0].Contains(c))
                         {
-                            allForThisGroup += c;
-                        }
-                        else if (allForThisGroup.Contains(c) && !lines[0].Contains(c))
-                        {
-                            allForThisGroup.Remove(allForThisGroup.IndexOf(c),0);
+                            anyYesAnswers += c;
                         }
                     }
-                    
+
                 }
-                Console.WriteLine(allForThisGroup);
-                    Console.WriteLine(allForThisGroup.Length);
-                    totalB += allForThisGroup.Length;
+                //Console.WriteLine(allForThisGroup);
+                
+                string allYes = "";
+                foreach (char letter in anyYesAnswers)
+                {
+                    int freq = anyYesAnswers.Count(f => (f == letter));
+                    if (freq==lines.Length && !allYes.Contains(letter))
+                    {
+                        allYes += letter;
+                    }
+                }
+                Console.WriteLine(allYes);
+                Console.WriteLine(allYes.Length);
+                totalB += allYes.Length;
             }
             Console.WriteLine(totalB);
         }
